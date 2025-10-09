@@ -1,0 +1,15 @@
+**/.DS_Store
+
+**/*.ipynb_checkpoints/
+
+**/*.ppt*
+**/*.doc*
+
+records/
+submissions/
+syllabus/
+
+materials/**/_*.ipynb
+materials/**/_*.*
+materials/**/*-contrib*/
+
