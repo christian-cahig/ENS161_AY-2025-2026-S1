@@ -6,7 +6,7 @@
 **/*.doc*
 
 records/
-submissions/
+submissions/**/unchecked/
 syllabus/
 
 materials/**/_*.ipynb
